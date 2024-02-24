@@ -1,0 +1,14 @@
+C:\Users\filak\Desktop\Otchłań, Kurek M\bin\Debug\net8.0\Otchłań, Kurek M.exe
+C:\Users\filak\Desktop\Otchłań, Kurek M\bin\Debug\net8.0\Otchłań, Kurek M.deps.json
+C:\Users\filak\Desktop\Otchłań, Kurek M\bin\Debug\net8.0\Otchłań, Kurek M.runtimeconfig.json
+C:\Users\filak\Desktop\Otchłań, Kurek M\bin\Debug\net8.0\Otchłań, Kurek M.dll
+C:\Users\filak\Desktop\Otchłań, Kurek M\bin\Debug\net8.0\Otchłań, Kurek M.pdb
+C:\Users\filak\Desktop\Otchłań, Kurek M\obj\Debug\net8.0\Otchłań, Kurek M.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filak\Desktop\Otchłań, Kurek M\obj\Debug\net8.0\Otchłań, Kurek M.AssemblyInfoInputs.cache
+C:\Users\filak\Desktop\Otchłań, Kurek M\obj\Debug\net8.0\Otchłań, Kurek M.AssemblyInfo.cs
+C:\Users\filak\Desktop\Otchłań, Kurek M\obj\Debug\net8.0\Otchłań, Kurek M.csproj.CoreCompileInputs.cache
+C:\Users\filak\Desktop\Otchłań, Kurek M\obj\Debug\net8.0\Otchłań, Kurek M.dll
+C:\Users\filak\Desktop\Otchłań, Kurek M\obj\Debug\net8.0\refint\Otchłań, Kurek M.dll
+C:\Users\filak\Desktop\Otchłań, Kurek M\obj\Debug\net8.0\Otchłań, Kurek M.pdb
+C:\Users\filak\Desktop\Otchłań, Kurek M\obj\Debug\net8.0\Otchłań, Kurek M.genruntimeconfig.cache
+C:\Users\filak\Desktop\Otchłań, Kurek M\obj\Debug\net8.0\ref\Otchłań, Kurek M.dll
